@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=F77210&width=435&lines=Welcome+to+HUSAM's+GitHub+Page!;I+am+a+Full+Stack+Web+Developer%2C;I+am+currently+learning+about+Machine+Learning)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=F77210&width=435&lines=Welcome+to+HUSAM's+GitHub+Page!;I+am+a+Full+Stack+Web+Developer%2C;I+am+currently+learning+about+AI+%26+ML" alt="Typing SVG" /></a>
 
 
 

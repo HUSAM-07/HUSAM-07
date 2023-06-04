@@ -1,3 +1,12 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+HUSAM....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
+
+
 # 💫 About Me:
 I'm currently working as a UI/UX & Front-end developer for a Start-Up<br>Learning ReactJS & NextJs<br>Aspiring ML Engineer<br>
 

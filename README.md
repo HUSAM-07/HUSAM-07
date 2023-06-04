@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+HUSAM....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=F77210&width=435&lines=Welcome+to+HUSAM's+GitHub+Page!;I+am+a+Full+Stack+Web+Developer%2C;I+am+currently+learning+about+Machine+Learning)](https://git.io/typing-svg)
 
 
 

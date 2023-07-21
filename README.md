@@ -2,7 +2,7 @@
 
 
 
-# 💫 About Me:
+# ⁋ About Me:
 I'm currently working as a UI/UX & Front-end developer for a Start-Up<br>Learning ReactJS & NextJs<br>Aspiring ML Engineer<br>
 
 

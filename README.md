@@ -2,7 +2,7 @@
 
 
 # About Me:
-I am currently working as a Full Stack Developer Intern at PropReturns<br>Learning ReactJS & NextJs<br>Aspiring ML Engineer<br>
+I am currently working as a Full Stack Developer Intern at PropReturns<br>Learning ReactJS & NextJs<br>Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction<br>
 
 
 ## Socials:

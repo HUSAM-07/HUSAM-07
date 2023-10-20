@@ -5,7 +5,7 @@
   <samp>
     <a href="https://husamdev.netlify.app/">me</a> .
     <a href="https://thevaluevault.beehiiv.com/">blog</a> .
-    <a href="https://instagram.com/itshu.sam">instagram</a> .
+    <a href="https://instagram.com/itshu.sam">instagram</a> 
   </samp>
 </p>
 

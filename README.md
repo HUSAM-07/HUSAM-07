@@ -1,5 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=F77210&center=true&vCenter=true&width=435&lines=Welcome+to+HUSAM's+GitHub+Page!;I+am+a+Full+Stack+Web+Developer%2C;I+am+currently+learning+about+AI+%26+ML" alt="Typing SVG" /></a>
 
+### Quick Links
+<p align="center">
+  <samp>
+    <a href="https://husamdev.netlify.app/">me</a> .
+    <a href="https://thevaluevault.beehiiv.com/">blog</a> .
+    <a href="https://instagram.com/itshu.sam">instagram</a> .
+  </samp>
+</p>
 
 # About Me:
 I am currently working as a Full Stack Developer Intern at PropReturns

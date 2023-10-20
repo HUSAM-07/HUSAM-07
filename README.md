@@ -5,9 +5,9 @@
 I am currently working as a Full Stack Developer Intern at PropReturns
 <br> 
 - Learning ReactJS & NextJs
-<br>
+
 - Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction<br>
-<br>
+
 - Building Open Source Tools for the Community
 
 

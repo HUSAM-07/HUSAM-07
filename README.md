@@ -11,6 +11,7 @@
 
 # About Me:
 I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'
+<br>
 I am currently working as a Full Stack Developer Intern at PropReturns
 <br> 
 - Learning ReactJS & NextJs

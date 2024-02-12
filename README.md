@@ -9,7 +9,7 @@
   </samp>
 </p>
 
-📫 How to reach me f20200128@dubai.bits-pilani.ac.in
+📫 How to reach me f20210150@dubai.bits-pilani.ac.in
 
 # About Me:
 I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'

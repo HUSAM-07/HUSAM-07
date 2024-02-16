@@ -11,9 +11,9 @@
 
 
 # About Me:
-I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'
+- I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'
 <br>
-Interned at Propreturn.com as a Full Stack Developer
+- Interned at Propreturn.com as a Full Stack Developer
 <br> 
 - Learning ReactJS & NextJs
 - Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction

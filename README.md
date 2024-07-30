@@ -13,9 +13,9 @@
 
 # About Me:
 - I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'
-- Software Engineering Intern @(Brio Tech)[https://www.briotech.com/]
-- Interned at (Propreturn.com)[https://www.propreturns.com/] as a Full Stack Developer & Data Science Intern.
-- Learning ReactJS & NextJs
+- Software Engineering Intern @[Brio Tech](https://www.briotech.com/)
+- Interned at [Propreturn.com](https://www.propreturns.com/) as a Full Stack Developer & Data Science Intern.
+- I build websites using [Streamlit](https://streamlit.io/), [NextJs](https://nextjs.org/)
 - Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction
 - Building Open Source Tools for the Community
 

@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=F77210&center=true&vCenter=true&width=435&lines=Welcome+to+HUSAM's+GitHub+Page!;I+am+a+Full+Stack+Web+Developer%2C;I+am+currently+learning+about+AI+%26+ML" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&color=41A7F7&width=435&lines=I+am+a+Software+Engineer)](https://git.io/typing-svg)
+
 
 ### Quick Links
 <p align="center">

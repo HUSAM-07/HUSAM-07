@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&color=41A7F7&width=435&lines=I+am+a+Software+Engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&color=41A7F7&width=435&lines=I+am+a+Software+Engineer;Open+Source+Enthusiast;Working+with+Google+Cloud;A+Google+DSC+Lead)](https://git.io/typing-svg)
 
 ### Quick Links
 <p align="center">

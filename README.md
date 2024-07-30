@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     <a href="https://husamdev.netlify.app/">me</a> .
-    <a href="https://mohammed-husamuddin-portfolio.vercel.app/">portfolio</a>
+    <a href="https://mohammed-husamuddin-portfolio.vercel.app/">portfolio</a> .
     <a href="https://valuevault.beehiiv.com/">blog</a> .
     <a href="https://instagram.com/itshu.sam">instagram</a> 
   </samp>

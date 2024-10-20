@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=800&color=41A7F7&width=435&lines=I+am+a+Software+Engineer;Open+Source+Enthusiast;A+Google+DSC+Lead)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=800&color=41A7F7&width=435&lines=I+am+a+Software+Engineer+Student;Open+Source+Enthusiast;A+Google+DSC+Lead)](https://git.io/typing-svg)
 
 # Quick Links
 <p align="center">
@@ -12,16 +12,15 @@
 
 # About Me:
 - I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'
-- Software Engineering Intern @[Brio Tech](https://www.briotech.com/)
+- Ex-Software Engineering Intern @[Brio Tech](https://www.briotech.com/)
 - Interned at [Propreturn.com](https://www.propreturns.com/) as a Full Stack Developer & Data Science Intern.
-- I build websites using [Streamlit](https://streamlit.io/), [NextJs](https://nextjs.org/)
 - Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction
 - Building Open Source Tools for the Community
 
 
 
 # Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itshu.sam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/husam-profile/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@HUSAM_007) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itshu.sam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedhusamuddin/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@HUSAM_007) 
 
 If you want to contact me, f20210150@dubai.bits-pilani.ac.in
 

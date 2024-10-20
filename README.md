@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=800&color=41A7F7&width=435&lines=I+am+a+Software+Engineer;Open+Source+Enthusiast;A+Google+DSC+Lead)](https://git.io/typing-svg)
 
-### Quick Links
+# Quick Links
 <p align="center">
   <samp>
     <a href="https://mohammedhusamuddin.me">portfolio</a> .
@@ -20,7 +20,7 @@
 
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itshu.sam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/husam-profile/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@HUSAM_007) 
 
 If you want to contact me, f20210150@dubai.bits-pilani.ac.in

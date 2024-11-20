@@ -9,9 +9,10 @@
   </samp>
 </p>
 
+**Currently building [UniDash](https://unidash.mohammedhusamuddin.me/)**
 
 # About Me:
-- I am currently leading the Google Developer Student Clubs BITS Pilani Dubai Chapter as a lead selected by Google for the Year 2023-24'
+- Ex-Google Developer Groups Lead
 - Ex-Software Engineering Intern @[Brio Tech](https://www.briotech.com/)
 - Interned at [Propreturn.com](https://www.propreturns.com/) as a Full Stack Developer & Data Science Intern.
 - Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction

@@ -9,12 +9,12 @@
   </samp>
 </p>
 
-**Currently building [UniDash](https://unidash.mohammedhusamuddin.me/)**
+## Currently building [UniDash](https://unidash.mohammedhusamuddin.me/)
 
 # About Me:
 - Ex-Google Developer Groups Lead
 - Ex-Software Engineering Intern @[Brio Tech](https://www.briotech.com/)
-- Interned at [Propreturn.com](https://www.propreturns.com/) as a Full Stack Developer & Data Science Intern.
+- Ex-Full Stack Developer & Data Science Intern @[Propreturn.com](https://www.propreturns.com/)
 - Currently Working On Building a Machine Learning Model for Apparel Classification & Prediction
 - Building Open Source Tools for the Community
 

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Epilogue&size=22&duration=2000&pause=1000&color=000000&background=FFFFFF&vCenter=true&multiline=true&width=500&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Husam;Software+Developer+with+AI%2BData;I+focus+on+building+leverage+through+Tech+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Epilogue&size=22&duration=2000&pause=1000&color=000000&vCenter=true&multiline=true&width=500&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Husam;Software+Developer+with+AI%2BData;I+focus+on+building+leverage+through+Tech+)](https://git.io/typing-svg)
 
 ## 🚀 What I'm Up To
 Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - A comprehensive university dashboard solution

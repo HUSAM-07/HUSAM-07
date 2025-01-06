@@ -40,6 +40,8 @@ Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - An amazin
 
 📧 Email: f20210150@dubai.bits-pilani.ac.in
 
+https://ssr-contributions-svg.vercel.app/_/HUSAM-07?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&widget_size=medium&dark=true
+
 ## 📊 GitHub Stats
 ![HUSAM-07's Stats](https://github-readme-stats.vercel.app/api?username=HUSAM-07&theme=dark&show_icons=true&hide_border=false&count_private=true)
 

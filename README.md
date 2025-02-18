@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Epilogue&size=22&duration=1500&pause=500&color=FF9900&vCenter=true&multiline=true&width=500&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Husam;Software+Developer+with+AI%2BData;I+focus+on+building+leverage+through+Tech+)](https://git.io/typing-svg)
 
+| Launching [WRKForce](https://wrkforceae.com): Your Go-To Platform for Internships in the UAE!”
+
+
 ## 🚀 What I'm Up To
 Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - An amazing platform for making university life easier with over **2,000** daily visits
 - 🤖 Developing a Machine Learning Model for Apparel Classification & Prediction

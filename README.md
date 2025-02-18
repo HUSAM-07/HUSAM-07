@@ -41,6 +41,10 @@ Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - An amazin
 📧 Email: f20210150@dubai.bits-pilani.ac.in
 
 ## 📊 GitHub Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/6a861a5d0e4e82b4d787f11ceae64af8f99ebe13.svg "Repobeats analytics image")
+
+
 ![HUSAM-07's Stats](https://github-readme-stats.vercel.app/api?username=HUSAM-07&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![HUSAM-07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUSAM-07&theme=dark&hide_border=false)

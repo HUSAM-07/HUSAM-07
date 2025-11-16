@@ -4,6 +4,7 @@
 
 
 ## 🚀 What I'm Up To
+> I'm an Applied AI Engineer, building AI systems and solutions that make magical ads that are ready to post in minutes, AI Agents for HR and Talent Teams that have helped the teams save about 60+ hours a week and hire better (for all levels, ICs to VPs) 
 Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - An amazing platform for making university life easier with over **2,000** daily visits
 - 🤖 Developing a Machine Learning Model for Apparel Classification & Prediction
 - 🛠️ Creating Open Source Tools for the Community

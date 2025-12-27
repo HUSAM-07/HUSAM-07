@@ -42,7 +42,7 @@ Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - An amazin
   <a href="https://medium.com/@HUSAM_007">📖 Medium</a>
 </p>
 
-📧 Email: f20210150@dubai.bits-pilani.ac.in
+📧 Email: hello.dev.husam@gmail.com
 
 ## 📊 GitHub Stats
 

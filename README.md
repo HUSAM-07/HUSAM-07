@@ -10,6 +10,7 @@ Currently building [UniDash](https://unidash.mohammedhusamuddin.me/) - An amazin
 - 🛠️ Creating Open Source Tools for the Community
 
 ## 💼 Professional Experience
+- Applied AI Eng. @[Deriv.com] (https://deriv.ae/)
 - 🎯 Ex-Google Developer Groups Lead
 - 💻 Ex-Software Engineering Intern @[Brio Tech](https://www.briotech.com/)
 - 📊 Ex-Full Stack Developer & Data Science Intern @[Propreturn.com](https://www.propreturns.com/)

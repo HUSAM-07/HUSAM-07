@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Epilogue&size=22&duration=1500&pause=500&color=d22543&vCenter=true&multiline=true&width=500&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Husam;Applied+AI+Engineer+with+Software%2BData;I+focus+on+building+leverage+through+Tech+)](https://git.io/typing-svg)
 
-| Launching [Acumen](https://acumen.ihusam.tech.com): Your Go-To Platform for AI analyzed and technical analysis based trading signals!
+| Launching [Acumen](https://acumen.ihusam.tech): Your Go-To Platform for AI analyzed and technical analysis based trading signals!
 
 
 ## 🚀 What I'm Up To

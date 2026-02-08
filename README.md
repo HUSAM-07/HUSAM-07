@@ -39,12 +39,3 @@ Previously: Software Engineering at [Brio Tech](https://www.briotech.com/), Full
 **Cloud & Infra:** AWS, GCP, GKE, Firebase, Vercel — experienced with production deployments at scale
 
 **AI/ML:** Multi-agent systems, prompt engineering, LLM orchestration, RAG pipelines
-
-## GitHub Stats
-
-<div align="center">
-
-![HUSAM-07's Stats](https://github-readme-stats.vercel.app/api?username=HUSAM-07&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![HUSAM-07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSAM-07&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>

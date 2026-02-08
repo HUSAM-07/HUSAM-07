@@ -1,50 +1,110 @@
-# Hey 👋, I'm Husam
-### Applied AI Engineer with Software+Data
+<div align="center">
 
-<p align="center">
-  <a href="https://www.mohusam.com/">
-    <img src="https://raw.githubusercontent.com/HUSAM-07/HUSAM-07/main/claude-kicks.svg" alt="Claude Kicks" width="160" height="82" />
-  </a>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 82" width="160" height="82">
+  <style>
+    .right-arm { animation: arm-idle 2s ease-in-out infinite; transform-origin: 86px 40px; }
+    .eye { animation: blink 3s ease-in-out infinite; }
+    .right-leg { animation: kick-leg 2s ease-in-out infinite; transform-origin: 70px 60px; }
+    .football { animation: ball-travel 2s ease-in-out infinite; }
+    @keyframes arm-idle { 0%, 100% { transform: rotate(-2deg); } 50% { transform: rotate(2deg); } }
+    @keyframes blink { 0%, 45%, 55%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.1); } }
+    @keyframes kick-leg { 0%, 10% { transform: rotate(0deg); } 20%, 25% { transform: rotate(-25deg); } 35%, 100% { transform: rotate(0deg); } }
+    @keyframes ball-travel { 0%, 10% { transform: translate(0, 0); } 20% { transform: translate(5px, -2px); } 45% { transform: translate(55px, -5px); } 50% { transform: translate(55px, -5px); } 80% { transform: translate(5px, -2px); } 90%, 100% { transform: translate(0, 0); } }
+  </style>
+  <defs>
+    <radialGradient id="ballGradient" cx="35%" cy="35%" r="60%" fx="30%" fy="30%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#e8e8e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0c0c0;stop-opacity:1" />
+    </radialGradient>
+    <linearGradient id="pentagonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#333333;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="50" cy="82" rx="22" ry="5" fill="#000" opacity="0.25"/>
+  <g class="claude-body">
+    <rect x="22" y="10" width="8" height="14" fill="#E07C4C"/>
+    <rect x="70" y="10" width="8" height="14" fill="#E07C4C"/>
+    <rect x="18" y="24" width="64" height="4" fill="#E07C4C"/>
+    <rect x="14" y="28" width="72" height="32" fill="#E07C4C"/>
+    <rect class="eye" x="38" y="34" width="8" height="10" fill="#000000" style="transform-origin: 42px 39px;"/>
+    <rect class="eye" x="68" y="34" width="8" height="10" fill="#000000" style="transform-origin: 72px 39px;"/>
+    <rect x="2" y="36" width="12" height="8" fill="#E07C4C"/>
+    <rect class="right-arm" x="86" y="36" width="14" height="8" fill="#E07C4C"/>
+    <rect x="24" y="60" width="12" height="10" fill="#E07C4C"/>
+    <rect x="22" y="70" width="16" height="6" rx="1" fill="#1a1a1a"/>
+    <g class="right-leg">
+      <rect x="64" y="60" width="12" height="10" fill="#E07C4C"/>
+      <rect x="62" y="70" width="16" height="6" rx="1" fill="#1a1a1a"/>
+    </g>
+  </g>
+  <g class="football">
+    <ellipse cx="88" cy="82" rx="9" ry="3" fill="#000" opacity="0.2"/>
+    <circle cx="88" cy="67" r="12" fill="url(#ballGradient)" stroke="#555" stroke-width="0.5"/>
+    <clipPath id="ballClip">
+      <circle cx="88" cy="67" r="11.5"/>
+    </clipPath>
+    <g clip-path="url(#ballClip)">
+      <path d="M88,64 L90,65.5 L89.5,68 L86.5,68 L86,65.5 Z" fill="url(#pentagonGradient)"/>
+      <path d="M88,56 L90,57.5 L89.5,60 L86.5,60 L86,57.5 Z" fill="url(#pentagonGradient)"/>
+      <path d="M97,62 L99,65 L98,68 L95.5,67 L96,63.5 Z" fill="url(#pentagonGradient)"/>
+      <path d="M95,72 L97,75 L94,77.5 L91,75 L93,72 Z" fill="url(#pentagonGradient)"/>
+      <path d="M81,72 L83,75 L80,77.5 L77,75 L79,72 Z" fill="url(#pentagonGradient)"/>
+      <path d="M79,62 L80,63.5 L79.5,67 L77,68 L76,65 Z" fill="url(#pentagonGradient)"/>
+      <line x1="88" y1="64" x2="88" y2="56" stroke="#666" stroke-width="0.4"/>
+      <line x1="90" y1="65.5" x2="97" y2="62" stroke="#666" stroke-width="0.4"/>
+      <line x1="89.5" y1="68" x2="95" y2="72" stroke="#666" stroke-width="0.4"/>
+      <line x1="86.5" y1="68" x2="81" y2="72" stroke="#666" stroke-width="0.4"/>
+      <line x1="86" y1="65.5" x2="79" y2="62" stroke="#666" stroke-width="0.4"/>
+      <ellipse cx="84" cy="61" rx="3" ry="2" fill="#fff" opacity="0.6"/>
+    </g>
+  </g>
+</svg>
 
-| Launching [Acumen](http://acumen.ihusam.tech/): Your Go-To Platform for AI analyzed and technical analysis based trading signals!
+### Hey 👋, I'm Husam
+
+**Applied AI Engineer** — building leverage through technology
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ihusam.tech-E07C4C?style=flat-square)](https://mohammedhusamuddin.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Husam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedhusamuddin/)
+[![Blog](https://img.shields.io/badge/Blog-Value%20Vault-E07C4C?style=flat-square)](https://valuevault.beehiiv.com/)
+[![Email](https://img.shields.io/badge/Email-hello.dev.husam-333?style=flat-square&logo=gmail&logoColor=white)](mailto:hello.dev.husam@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 What I'm Up To
+I'm an Applied AI Engineer at [Deriv](https://deriv.ae/), where I build AI-powered systems for marketing automation, compliance, and internal tooling. My work spans AI agents that save teams 60+ hours/week, ad generation pipelines, and multi-agent architectures for financial services.
 
-> I'm an Applied AI Engineer, building AI systems and solutions that make magical ads that are ready to post in minutes, AI Agents for HR and Talent Teams that have helped the teams save about 60+ hours a week and hire better (for all levels, ICs to VPs) Currently building [UniDash](https://unidash.ihusam.tech/) - An amazing platform for making university life easier with over 2,000 daily visits
+Previously: Software Engineering at [Brio Tech](https://www.briotech.com/), Full Stack & Data Science at [Propreturns](https://www.propreturns.com/), and Google Developer Groups Lead.
 
-- 🧠 Developing a Machine Learning Model for Apparel Classification & Prediction
-- 🧪 Creating Open Source Tools for the Community
+## Projects
 
----
-
-## 🧪 Recent Projects — Experiments & Learning
-
-These are side projects I built to experiment with new ideas, learn by shipping, and explore what's possible with AI + software.
-
-| Project | What It Does |
+| Project | What it does |
 |---------|-------------|
-| [**InsightHedge**](https://insight-hedge.ihusam.tech/) | AI-powered stock analysis combining insights from legendary investors (Buffett, Munger, Wood) with trading signal generation |
-| [**Acumen**](http://acumen.ihusam.tech/) | AI market analysis platform — pattern recognition, real-time chart analysis, multi-model support (Claude, Grok, etc.) |
-| [**Equitum (PPN)**](https://ppn.ihusam.tech/) | Concept for democratizing structured investment products with institutional-grade access starting at $1,000 |
-| [**Gist**](http://gist.ihusam.tech/) | NotebookLM-style tool — upload PDFs, websites, or text and chat with your documents, generate summaries, quizzes, and more |
-| [**Prompt Console**](https://prompt-console.ihusam.tech/) | Developer workbench for prompt engineering — create, test, and manage prompts with usage analytics and batch testing |
+| [**Insight Hedge**](https://insight-hedge.ihusam.tech/) | AI-analyzed trading signals and market insights |
+| [**Acumen**](https://acumen.ihusam.tech/) | Technical analysis-based trading signal platform |
+| [**Prompt Console**](https://prompt-console.ihusam.tech/) | Prompt optimization console with template management, batch testing, and AI enhancement |
+| [**PPN**](https://ppn.ihusam.tech/) | Research paper monitoring and notification system |
+| [**Gist**](https://gist.ihusam.tech/) | AI-powered content distillation tool |
+| [**UniDash**](https://unidash.mohammedhusamuddin.me/) | University life platform — **2,000+ daily visits** |
 
----
-
-## 💼 Professional Experience
-
-- Applied AI Eng. @[Deriv.com](https://deriv.ae/)
-- 💫 Ex-Google Developer Groups Lead
-- 💻 Ex-Software Engineering Intern @Brio Tech
-- 🏢 Ex-Full Stack Developer & Data Science Intern @Propreturn.com
-
----
-
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages:** Python, TypeScript, JavaScript, Java
 
-**Frameworks & Libraries:** React, Next.js, TensorFlow, PyTorch
+**Frameworks:** React, Next.js, FastAPI, TensorFlow, PyTorch
+
+**Cloud & Infra:** AWS, GCP, GKE, Firebase, Vercel — experienced with production deployments at scale
+
+**AI/ML:** Multi-agent systems, prompt engineering, LLM orchestration, RAG pipelines
+
+## GitHub Stats
+
+<div align="center">
+
+![HUSAM-07's Stats](https://github-readme-stats.vercel.app/api?username=HUSAM-07&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![HUSAM-07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSAM-07&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>

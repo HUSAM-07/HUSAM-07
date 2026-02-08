@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 82" width="120" height="82">
+  <style>
+    .wave-arm {
+      animation: wave 1.5s ease-in-out infinite;
+      transform-origin: 86px 40px;
+    }
+    .eye {
+      animation: blink 3s ease-in-out infinite;
+    }
+    @keyframes wave {
+      0%, 100% { transform: rotate(0deg); }
+      15% { transform: rotate(-25deg); }
+      30% { transform: rotate(10deg); }
+      45% { transform: rotate(-20deg); }
+      60% { transform: rotate(5deg); }
+      75% { transform: rotate(-10deg); }
+    }
+    @keyframes blink {
+      0%, 45%, 55%, 100% { transform: scaleY(1); }
+      50% { transform: scaleY(0.1); }
+    }
+  </style>
+
+  <!-- Shadow -->
+  <ellipse cx="50" cy="82" rx="22" ry="5" fill="#000" opacity="0.25"/>
+
+  <g class="claude-body">
+    <!-- Left ear -->
+    <rect x="22" y="10" width="8" height="14" fill="#D22543"/>
+    <!-- Right ear -->
+    <rect x="70" y="10" width="8" height="14" fill="#D22543"/>
+    <!-- Main body - top row -->
+    <rect x="18" y="24" width="64" height="4" fill="#D22543"/>
+    <!-- Main body - full block -->
+    <rect x="14" y="28" width="72" height="32" fill="#D22543"/>
+
+    <!-- Eyes (with blink) -->
+    <rect class="eye" x="38" y="34" width="8" height="10" fill="#000000" style="transform-origin: 42px 39px;"/>
+    <rect class="eye" x="68" y="34" width="8" height="10" fill="#000000" style="transform-origin: 72px 39px;"/>
+
+    <!-- Left arm at side -->
+    <rect x="2" y="36" width="12" height="8" fill="#D22543"/>
+
+    <!-- Right arm (waving) -->
+    <g class="wave-arm">
+      <rect x="86" y="36" width="14" height="8" fill="#D22543"/>
+      <!-- Hand -->
+      <rect x="100" y="34" width="8" height="10" rx="2" fill="#D22543"/>
+    </g>
+
+    <!-- Left leg -->
+    <rect x="24" y="60" width="12" height="10" fill="#D22543"/>
+    <rect x="22" y="70" width="16" height="6" rx="1" fill="#1a1a1a"/>
+
+    <!-- Right leg -->
+    <rect x="64" y="60" width="12" height="10" fill="#D22543"/>
+    <rect x="62" y="70" width="16" height="6" rx="1" fill="#1a1a1a"/>
+  </g>
+</svg>

@@ -23,8 +23,6 @@ Previously: Software Engineering at [Brio Tech](https://www.briotech.com/), Full
 
 | Project | What it does |
 |---------|-------------|
-| [**Insight Hedge**](https://insight-hedge.ihusam.tech/) | AI-analyzed trading signals and market insights |
-| [**Acumen**](https://acumen.ihusam.tech/) | Technical analysis-based trading signal platform |
 | [**Prompt Console**](https://prompt-console.ihusam.tech/) | Prompt optimization console with template management, batch testing, and AI enhancement |
 | [**PPN**](https://ppn.ihusam.tech/) | Research paper monitoring and notification system |
 | [**Gist**](https://gist.ihusam.tech/) | AI-powered content distillation tool |

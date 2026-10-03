@@ -15,7 +15,7 @@
 
 ---
 
-I'm an Applied AI Engineer at [Deriv](https://deriv.ae/), where I build AI-powered systems for marketing automation, compliance, and internal tooling. My work spans AI agents that save teams 60+ hours/week, ad generation pipelines, and multi-agent architectures for financial services.
+I'm a senior AI Engineer at [Deriv](https://deriv.ae/), where I build and work on AI services integrated in client-facing projects, serving more than 500,000+ users, leading these projects that serve clients + building internal tooling around better DX. My work spans AI agents that save teams 60+ hours/week, data pipelines, and multi-agent architectures for financial services.
 
 Previously: Software Engineering at [Brio Tech](https://www.briotech.com/), Full Stack & Data Science at [Propreturns](https://www.propreturns.com/), and Google Developer Groups Lead.
 

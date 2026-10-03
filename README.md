@@ -23,6 +23,7 @@ Previously: Software Engineering at [Brio Tech](https://www.briotech.com/), Full
 
 | Project | What it does |
 |---------|-------------|
+| [**TradersView**](https://tradersview.deriv.com/) | an AI-first trading platform, built and scaled to 500,000 users as the product owner |
 | [**Insight Hedge**](https://insight-hedge.ihusam.tech/) | AI-analyzed trading signals and market insights |
 | [**Acumen**](https://acumen.ihusam.tech/) | Technical analysis-based trading signal platform |
 | [**Prompt Console**](https://prompt-console.ihusam.tech/) | Prompt optimization console with template management, batch testing, and AI enhancement |
